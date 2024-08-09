@@ -9,6 +9,7 @@ import javax.swing.JOptionPane;
 public class EntradaSalidaDatosConJOptionPane {
 
     public static void main(String[] args) {
+       
         String cadena;
         int entero;
         char letra;
